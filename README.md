@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=GenAI%20Student%20•%20AI%20Agent%20Builder%20•%20Full‑Stack%20Learner&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=GenAI%20Student%20•%20AI%20Enthusiast%20•%20Software%20Development%20in%20AI&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
 </p>
 <!-- Big Typing Intro (image only to avoid link glitch) -->
 <!-- Typing Intro (glitch-free: image only, not a link) -->
