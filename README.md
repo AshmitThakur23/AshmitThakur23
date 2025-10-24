@@ -1,21 +1,15 @@
-<!-- ─────────────────────────────────────────────────────────────────────────────
-     Ashmit Thakur • Profile README (Timeless, multi‑project, refined)
-     - No single‑project bias
-     - Glitch‑free typing banner (no clickable link)
-     - One row of badges (no duplicates)
-     - Clear sections, fast-loading widgets only
-────────────────────────────────────────────────────────────────────────────── -->
+
 
 <!-- Wave Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=GenAI%20Student%20•%20AI%20Agent%20Builder%20•%20Full‑Stack%20Learner&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=GenAI%20Student%20%E2%80%A2%20ML%20%26%20Deep%20Learning%20%E2%80%A2%20Software%20in%20AI&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
 </p>
 
 <!-- Big Typing Intro (image only to avoid link glitch) -->
 <!-- Typing Intro (glitch-free: image only, not a link) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2200&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;AI%20AGENT%20BUILDER%20%E2%80%A2%20SOFTWARE%20DEVELOPMENT%20IN%20AI;GENAI%20STUDENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DEEP%20LEARNING;COMPUTER%20VISION%20%E2%80%A2%20NLP%20%E2%80%A2%20BLOCKCHAIN%20FUNDAMENTALS;LEARN%20BY%20BUILDING%20%E2%80%A2%20HANDS-ON%20PROJECTS%20%E2%80%A2%20NEW%20TECH%20EVERY%20WEEK"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2200&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;GENAI%20STUDENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DEEP%20LEARNING;COMPUTER%20VISION%20%E2%80%A2%20NLP%20%E2%80%A2%20BLOCKCHAIN%20BASICS;LEARN%20BY%20BUILDING%20%E2%80%A2%20HANDS-ON%20PROJECTS%20%E2%80%A2%20NEW%20TECH%20EVERY%20WEEK;SOFTWARE%20DEVELOPMENT%20IN%20AI%20%E2%80%A2%20CLEAN%20SYSTEMS"
     alt="Typing Intro"
   />
 </p>
