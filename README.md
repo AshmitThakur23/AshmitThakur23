@@ -1,26 +1,6 @@
-
-
-<!-- Wave Hero Banner -->
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ashmit Thakur — GenAI Student • ML & Deep Learning • Software in AI">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="260" fill="url(#g)"/>
-
-  <!-- Subtle wave overlay -->
-  <path d="M0,180 C200,220 400,140 600,180 C800,220 1000,160 1200,200 L1200,260 L0,260 Z" fill="rgba(0,0,0,0.12)"/>
-
-  <!-- Text -->
-  <g fill="#ffffff" text-anchor="middle" font-family="'Inter','Segoe UI',Roboto,Arial,sans-serif">
-    <text x="600" y="118" font-size="60" font-weight="800">Ashmit Thakur</text>
-    <text x="600" y="168" font-size="20" opacity="0.98">GenAI Student • ML & Deep Learning • Software in AI</text>
-  </g>
-</svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=GenAI%20Student%20•%20AI%20Agent%20Builder%20•%20AI and ML %20Learner&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
+</p>
 <!-- Big Typing Intro (image only to avoid link glitch) -->
 <!-- Typing Intro (glitch-free: image only, not a link) -->
 <p align="center">
