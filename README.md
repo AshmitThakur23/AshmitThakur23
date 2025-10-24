@@ -1,4 +1,20 @@
+<!-- Wave Hero Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashmit%20Thakur&fontAlign=50&fontAlignY=38&color=0:8B5CF6,100:06B6D4&fontColor=ffffff&desc=AI%20Agent%20Engineer%20•%20Local‑first%20LLMs%20•%20Web%20Automation&descAlign=50&descAlignY=66" alt="Ashmit Thakur - Header Banner">
+</p>
+
+<!-- Big Typing Intro (loops from start to end) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&pause=1200&duration=2500&color=06B6D4&center=true&vCenter=true&width=1200&lines=ASHMIT%20THAKUR;AI%20AGENT%20ENGINEER%20•%20LOCAL‑FIRST%20LLMS%20•%20WEB%20AUTOMATION;BUILDING%20TRUSTWORTHY%20+%20EXPLAINABLE%20AI%20UX;FROM%20PROTOTYPE%20%E2%86%92%20PRODUCT%20WITH%20CLEAN%20SYSTEMS" alt="Typing Intro">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshmitThakur23&label=Profile%20Views&style=for-the-badge&color=0ea5e9" alt="Profile views">
+  <a href="https://github.com/AshmitThakur23?tab=followers"><img src="https://img.shields.io/github/followers/AshmitThakur23?label=Followers&style=for-the-badge&color=22c55e" alt="Followers"></a>
+  <a href="https://github.com/AshmitThakur23?tab=repositories&type=source"><img src="https://img.shields.io/badge/Open%20to-Collaboration-9333EA?style=for-the-badge" alt="Open to Collaboration"></a>
+</p>
+
+---<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshmitThakur23&style=for-the-badge&color=blue" alt="Ashmit Thakur Profile Views">
 </p>
 
