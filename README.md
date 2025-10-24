@@ -34,6 +34,7 @@
 ---
 
 ### 🏆 Certifications
+
 <p align="left">
   <em>Currently certified in:</em>
   <br><br>
@@ -52,7 +53,6 @@
   <em>Currently pursuing:</em> <strong>DP-900: Microsoft Azure Data Fundamentals</strong>
 </p>
 
----
 
 ### 📊 My GitHub Stats
 
