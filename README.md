@@ -1,10 +1,9 @@
 <!-- ─────────────────────────────────────────────────────────────────────────────
      Ashmit Thakur • Profile README (Timeless, multi‑project, refined)
      - No single‑project bias
-     - Clean layout and spacing
-     - Glitch‑free typing banner (no fallback "Typing Intro" link)
+     - Glitch‑free typing banner (no clickable link)
      - One row of badges (no duplicates)
-     - Fast‑loading widgets only
+     - Clear sections, fast-loading widgets only
 ────────────────────────────────────────────────────────────────────────────── -->
 
 <!-- Wave Hero Banner -->
@@ -14,7 +13,7 @@
 
 <!-- Big Typing Intro (image only to avoid link glitch) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2400&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;AI%20AGENT%20BUILDER%20•%20LOCAL‑FIRST%20LLMS%20•%20WEB%20AUTOMATION;LEARN%20•%20BUILD%20•%20EXPLAIN%20•%20SHARE" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2400&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;AI%20AGENT%20BUILDER%20•%20SOFTWARE%20DEVELOPMENT%20IN%20AI;LEARN%20BY%20BUILDING%20•%20NEW%20TECH%20EVERY%20WEEK;PRIVACY‑FIRST%20LLMS%20•%20EXPLAINABLE%20UX%20•%20TOOLS" alt="Typing Intro">
 </p>
 
 <!-- Badges (single row, non‑duplicated) -->
@@ -28,23 +27,23 @@
 
 ## About
 
-I’m a GenAI student and systems‑minded builder. I love turning new tech into simple, useful tools. My work blends:
-- Local‑first LLMs (privacy and control)
-- AI agents that read, browse, and act with explainable steps
-- Clean, friendly UIs that non‑engineers can use
+I’m a GenAI student and systems‑minded builder. I love turning new technology into simple, useful tools and sharing what I learn.
 
-Principles:
-- Learn fast • Build clearly • Ship small and often • Explain decisions
+- AI Agent Builder: planning/orchestration, tool‑use, readable steps
+- Software Development in AI: Python + TypeScript across web, voice, and data
+- Learn → Build → Explain: small projects to gain deep, practical knowledge
+
+Principles: Learn fast • Build clearly • Ship small and often • Explain decisions
 
 ---
 
 ## Interests
 
-- AI agents • tool‑use • planning/orchestration  
-- Local LLMs • embeddings • retrieval  
-- Web automation • Playwright • structured extraction  
-- Frontend craft • React + TypeScript • Tailwind/shadcn  
-- Practical MLOps for small projects  
+- AI agents • tool adapters • explainable UX
+- Local LLMs • embeddings • retrieval
+- Web automation • Playwright • structured extraction
+- Frontend craft • React + TypeScript • Tailwind/shadcn
+- Practical MLOps for small projects
 
 ---
 
@@ -56,37 +55,47 @@ Principles:
 
 ---
 
-## Selected Projects (multi‑repo, no single focus)
+## Selected Projects (balanced across areas)
 
-AI + Agents
-- Local AI Web Navigator — Python backend with Ollama + Playwright: live browsing, scraping, priority scoring.  
-  Repo: [Local-AI-Web-Navigator](https://github.com/AshmitThakur23/Local-AI-Web-Navigator)
-- Local AI Web Navigator — Future Prototype (TypeScript/React): UI‑first with Model Picker, voice personas, demo mode.  
-  Repo: [Local-AI-Web-Navigator-Future-Prototype](https://github.com/AshmitThakur23/Local-AI-Web-Navigator-Future-Prototype)
+AI & Assistants
 - Voice‑Enabled Personal Assistant (multimodal): Gemini chatbot, voice weather, Jarvis‑style commands.  
   Repo: [Voice-Enabled-Personal-Assistant-multimodal-](https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-)
+- samjho‑soch‑seekho (TypeScript): learn‑by‑building patterns and clean examples.  
+  Repo: [samjho-soch-seekho](https://github.com/AshmitThakur23/samjho-soch-seekho)
 
 Web Apps & Utilities
-- Restaurant Recommendation System (Python/CSS/HTML): crave + location → top nearby picks (Zomato data).  
+- Restaurant Recommendation System (Python/CSS/HTML): “what I crave + my location” → top nearby spots.  
   Repo: [Restaurant-Recommendation-System](https://github.com/AshmitThakur23/Restaurant-Recommendation-System)
-- Daily Expense Tracker (HTML/CSS/Python): categorize spends, monthly summaries, budgeting insights.  
+- Daily Expense Tracker (HTML/CSS/Python): categories, monthly summaries, budgeting insights.  
   Repo: [Daily-Expense-Tracker](https://github.com/AshmitThakur23/Daily-Expense-Tracker)
-- Web Visitor Tracker (Node/Express): Google OAuth 2.0 login + device/location logging with animated UI.  
+- Web Visitor Tracker (Node/Express): Google OAuth 2.0 login + device/location logging with a modern UI.  
   Repo: [Web-Visitor-Tracker-](https://github.com/AshmitThakur23/Web-Visitor-Tracker-)
-- Weather Forecast (HTML/CSS/Python): live updates + humidity via OpenWeatherMap.  
+- Weather Forecast (HTML/CSS/Python): live weather + humidity via OpenWeatherMap.  
   Repo: [weather-forecast](https://github.com/AshmitThakur23/weather-forecast)
-
-Learning by Building
-- Samjho Soch Seekho (TypeScript): understand • think • learn with clean patterns and examples.  
-  Repo: [samjho-soch-seekho](https://github.com/AshmitThakur23/samjho-soch-seekho)
 
 Quick cards
 <p align="center">
-  <a href="https://github.com/AshmitThakur23/Local-AI-Web-Navigator-Future-Prototype">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Local-AI-Web-Navigator-Future-Prototype&theme=react&hide_border=true" alt="Future Prototype (TS/React)">
+  <a href="https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Voice-Enabled-Personal-Assistant-multimodal-&theme=react&hide_border=true" alt="Voice Assistant (Multimodal)">
   </a>
-  <a href="https://github.com/AshmitThakur23/Local-AI-Web-Navigator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Local-AI-Web-Navigator&theme=react&hide_border=true" alt="Local AI Web Navigator (Python/Playwright)">
+  <a href="https://github.com/AshmitThakur23/Restaurant-Recommendation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Restaurant-Recommendation-System&theme=react&hide_border=true" alt="Restaurant Recommendation">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AshmitThakur23/Daily-Expense-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Daily-Expense-Tracker&theme=react&hide_border=true" alt="Daily Expense Tracker">
+  </a>
+  <a href="https://github.com/AshmitThakur23/Web-Visitor-Tracker-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Web-Visitor-Tracker-&theme=react&hide_border=true" alt="Web Visitor Tracker">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AshmitThakur23/weather-forecast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=weather-forecast&theme=react&hide_border=true" alt="Weather Forecast">
+  </a>
+  <a href="https://github.com/AshmitThakur23/samjho-soch-seekho">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=samjho-soch-seekho&theme=react&hide_border=true" alt="Samjho Soch Seekho">
   </a>
 </p>
 
