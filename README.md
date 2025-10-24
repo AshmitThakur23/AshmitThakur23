@@ -14,91 +14,136 @@
   <a href="https://github.com/AshmitThakur23?tab=repositories&type=source"><img src="https://img.shields.io/badge/Open%20to-Collaboration-9333EA?style=for-the-badge" alt="Open to Collaboration"></a>
 </p>
 
----<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshmitThakur23&style=for-the-badge&color=blue" alt="Ashmit Thakur Profile Views">
-</p>
+---
 
-### Hi there, I'm Ashmit! 👋
+## Hey, I’m Ashmit 👋
 
-<p align="left">
-  <em>GenAI student | Exploring LLMs, prompt engineering & creative AI | Python, PyTorch, LangChain | Building cool stuff</em>
-</p>
+I design and build local‑first AI agents that browse, read, and act on the web—while keeping users in control. I care about:
+- Private‑by‑default architecture (local LLMs when possible)
+- Explainable UX (clear plans, step traces, and tool logs)
+- Practical shipping: clean interfaces, minimal setup, strong docs
+
+Currently leveling up a Local AI Web Navigator across two tracks:
+- TypeScript/React “Future Prototype” (UI‑first with rich demos)
+- Python/Playwright agent (live automation with Ollama)
 
 ---
 
-### 🌱 I'm currently learning and working on:
-- Exploring advanced Generative AI architectures and fine-tuning LLMs.  
-- Building AI-powered applications with LangChain and Streamlit.  
-- Deepening my understanding of MLOps practices.  
-
----
-
-### 🛠️ My Technical Skills
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css&theme=dark" />
-  <br><br>
-
-  <strong>AI, Data & Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,react,nodejs&theme=dark" />
-  <br><br>
-
-  <strong>Cloud & DevOps:</strong><br>
-  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,git,github,vscode,linux&theme=dark" />
-</p>
-
----
-
-### 🏆 Certifications
-
-<p align="left">
-  <em>Currently certified in:</em>
-  <br><br>
-
-  <!-- AZ-900 -->
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" title="AZ-900: Azure Fundamentals">
-    <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c3f5-41de-9b51-de161b58f864/image.png" alt="AZ-900 Badge" height="90">
-  </a>
-
-  <!-- AI-900 -->
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" title="AI-900: AI Fundamentals">
-    <img src="https://images.credly.com/size/110x110/images/8b5c6d3b-483b-487a-9519-2022b6f1f41d/image.png" alt="AI-900 Badge" height="90">
-  </a>
-
-  <br><br>
-  <em>Currently pursuing:</em> <strong>DP-900: Microsoft Azure Data Fundamentals</strong>
-</p>
-
-
-### 📊 My GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AshmitThakur23&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,vercel,py,flask,fastapi,playwright,selenium,beautifulsoup,nodejs,bun,git,github,linux,docker,firebase" height="44" />
+</p>
+
+Focus areas:
+- Local LLMs + Tooling: Ollama, embeddings, retrieval, API‑compatible backends  
+- Web Automation: Playwright, structured extraction, priority scoring  
+- Frontend Craft: React + TS, Tailwind/shadcn, Vite, auth & UX polish
+
+---
+
+## Featured Work (Multi‑Project Showcase)
+
+<p align="center">
+  <!-- Local AI Navigator (TS/React prototype) -->
+  <a href="https://github.com/AshmitThakur23/Local-AI-Web-Navigator-Future-Prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Local-AI-Web-Navigator-Future-Prototype&theme=react&hide_border=true" alt="Future Prototype">
+  </a>
+  <!-- Local AI Navigator (Python + Playwright) -->
+  <a href="https://github.com/AshmitThakur23/Local-AI-Web-Navigator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Local-AI-Web-Navigator&theme=react&hide_border=true" alt="Local AI Web Navigator">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshmitThakur23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitThakur23&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Voice Assistant (multimodal) -->
+  <a href="https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Voice-Enabled-Personal-Assistant-multimodal-&theme=react&hide_border=true" alt="Voice-Enabled Personal Assistant (Multimodal)">
+  </a>
+  <!-- Web Visitor Tracker (Node + OAuth2) -->
+  <a href="https://github.com/AshmitThakur23/Web-Visitor-Tracker-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Web-Visitor-Tracker-&theme=react&hide_border=true" alt="Web Visitor Tracker">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AshmitThakur23&theme=tokyonight&hide_border=true&border_radius=5" />
+  <!-- Restaurant Recommendation (Python/CSS/HTML) -->
+  <a href="https://github.com/AshmitThakur23/Restaurant-Recommendation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Restaurant-Recommendation-System&theme=react&hide_border=true" alt="Restaurant Recommendation System">
+  </a>
+  <!-- Daily Expense Tracker -->
+  <a href="https://github.com/AshmitThakur23/Daily-Expense-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Daily-Expense-Tracker&theme=react&hide_border=true" alt="Daily Expense Tracker">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Weather Forecast -->
+  <a href="https://github.com/AshmitThakur23/weather-forecast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=weather-forecast&theme=react&hide_border=true" alt="Weather Forecast">
+  </a>
+  <!-- Samjho Soch Seekho (TS learning) -->
+  <a href="https://github.com/AshmitThakur23/samjho-soch-seekho">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=samjho-soch-seekho&theme=react&hide_border=true" alt="Samjho Soch Seekho">
   </a>
 </p>
 
 ---
 
-### 💬 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/ashmitthakur615" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmitthakur615" height="30" width="40" />
-  </a>
-  <a href="mailto:ashmitthakur615@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="ashmitthakur615@gmail.com" height="30" width="40" />
-  </a>
+## Highlights
+
+- Local‑first agent design with pluggable tools (search, click, extract, summarize)  
+- Model Picker UX with local/cloud/downloadable states + persistence  
+- Persona‑based voice demo (Web Speech API TTS/STT) with recordings and summaries  
+- Product scraping with scoring (date recency, Wikipedia range boost) and CSV export  
+- Clean docs and demo mode so anyone can try features quickly
+
+---
+
+## What I’m Building Next
+
+- Wire TS/React prototype to a local LLM runtime (Ollama‑compatible)  
+- Tool adapters with transparent logs and step replay  
+- Memory layers (scratchpad + vector store) and long‑running tasks  
+- Multi‑modal I/O: screen understanding, better voice pipeline  
+- Session export/share + reproducible research recipes
+
+---
+
+## Get in Touch
+
+- Portfolio: <!-- add your link -->
+- LinkedIn: <!-- add your link -->
+- Email: <!-- mailto:you@example.com -->
+- X/Twitter: <!-- add your handle -->
+
+If you’d like a guided walkthrough of any project (or to collaborate), ping me—I’m happy to demo. ✨
+
+---
+
+## Stats & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshmitThakur23&theme=react&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshmitThakur23&show_icons=true&theme=react&hide_border=true" height="170" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitThakur23&layout=compact&theme=react&hide_border=true" height="160" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshmitThakur23&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitThakur23&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph"/>
+</p>
+
+---
+
+<!-- Loop the big name again at the end (start → end → restart) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&pause=1200&duration=2500&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ASHMIT%20THAKUR;LET'S%20BUILD%20LOCAL‑FIRST%20AI%20THAT%20PEOPLE%20TRUST" alt="End Banner">
+</p>
+
+<p align="center">
+  <sub>Last updated: 2025‑10‑24 • Made with ❤️</sub>
 </p>
