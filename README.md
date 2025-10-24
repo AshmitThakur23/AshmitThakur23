@@ -31,7 +31,7 @@ Principles: Learn fast • Build clearly • Ship small and often • Explain de
 
 ---
 
-## Interests (as a GenAI student)
+## Interests 
 
 - Machine Learning foundations: supervised/unsupervised learning, model selection, feature engineering
 - Deep Learning practice: PyTorch/TensorFlow, CNNs for image recognition, transformers, diffusion basics
@@ -55,7 +55,7 @@ Principles: Learn fast • Build clearly • Ship small and often • Explain de
 
 ---
 
-## Selected Projects (balanced across areas)
+## Selected Projects 
 
 AI & Assistants
 - Voice‑Enabled Personal Assistant (multimodal): Gemini chatbot, voice weather, Jarvis‑style commands.  
