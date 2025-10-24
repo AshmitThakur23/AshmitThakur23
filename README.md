@@ -12,8 +12,12 @@
 </p>
 
 <!-- Big Typing Intro (image only to avoid link glitch) -->
+<!-- Typing Intro (glitch-free: image only, not a link) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2400&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;AI%20AGENT%20BUILDER%20•%20SOFTWARE%20DEVELOPMENT%20IN%20AI;LEARN%20BY%20BUILDING%20•%20NEW%20TECH%20EVERY%20WEEK;PRIVACY‑FIRST%20LLMS%20•%20EXPLAINABLE%20UX%20•%20TOOLS" alt="Typing Intro">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2200&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;AI%20AGENT%20BUILDER%20%E2%80%A2%20SOFTWARE%20DEVELOPMENT%20IN%20AI;GENAI%20STUDENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DEEP%20LEARNING;COMPUTER%20VISION%20%E2%80%A2%20NLP%20%E2%80%A2%20BLOCKCHAIN%20FUNDAMENTALS;LEARN%20BY%20BUILDING%20%E2%80%A2%20HANDS-ON%20PROJECTS%20%E2%80%A2%20NEW%20TECH%20EVERY%20WEEK"
+    alt="Typing Intro"
+  />
 </p>
 
 <!-- Badges (single row, non‑duplicated) -->
@@ -37,13 +41,19 @@ Principles: Learn fast • Build clearly • Ship small and often • Explain de
 
 ---
 
-## Interests
+## Interests (as a GenAI student)
 
-- AI agents • tool adapters • explainable UX
-- Local LLMs • embeddings • retrieval
-- Web automation • Playwright • structured extraction
-- Frontend craft • React + TypeScript • Tailwind/shadcn
-- Practical MLOps for small projects
+- Machine Learning foundations: supervised/unsupervised learning, model selection, feature engineering
+- Deep Learning practice: PyTorch/TensorFlow, CNNs for image recognition, transformers, diffusion basics
+- Natural Language Processing: tokenization, embeddings, RAG, evaluation and prompt design
+- Computer Vision: classification, detection/segmentation, OCR pipelines
+- Software Development in AI: Python + TypeScript, API design (Flask/FastAPI/Node), testing, clean structure
+- Data and MLOps (student level): datasets, experiment tracking, versioning, simple serving/CI
+- Blockchain fundamentals: smart contract basics and how Web3 ideas connect to AI provenance
+- Core CS growth: DSA, algorithms, systems thinking, networking/build tools
+- Cloud basics: Azure/GCP, Docker containers, simple deploys
+- Learning style: build weekly mini‑projects, hands‑on experiments, read papers and reproduce results
+- Curiosity: new AI tech (multimodal models, agents, speech, vision) and turning ideas into working demos
 
 ---
 
