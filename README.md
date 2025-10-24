@@ -11,9 +11,9 @@
 ---
 
 ### 🌱 I'm currently learning and working on:
-- Exploring advanced Generative AI architectures and fine-tuning LLMs.
-- Building AI-powered applications with LangChain and Streamlit.
-- Deepening my understanding of MLOps practices.
+* Exploring advanced Generative AI architectures and fine-tuning LLMs.
+* Building AI-powered applications with LangChain and Streamlit.
+* Deepening my understanding of MLOps practices.
 
 ---
 
@@ -51,6 +51,6 @@
 ### 💬 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/irvashmithakur615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irvashmithakur615" height="30" width="40" /></a>
+  
   <a href="mailto:ashmitthakur615@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="ashmitthakur615@gmail.com" height="30" width="40" /></a>
-  <a href="https://twitter.com/AshmitThakur23" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="AshmitThakur23" height="30" width="40" /></a>
 </p>
