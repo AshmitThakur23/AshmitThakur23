@@ -19,7 +19,7 @@
 
 ### 🛠️ My Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,langchain,js,html,css,react,nodejs,mongodb,git,github,vscode,figma,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,js,html,css,react,nodejs,git,github,vscode,docker,java,cplusplus,linux&theme=dark" />
 </p>
 
 ---
