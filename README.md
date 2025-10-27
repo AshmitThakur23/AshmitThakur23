@@ -5,7 +5,7 @@
 <!-- Typing Intro (glitch-free: image only, not a link) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1100&duration=2200&color=06B6D4&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;GENAI%20STUDENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DEEP%20LEARNING;COMPUTER%20VISION%20%E2%80%A2%20NLP%20%E2%80%A2%20BLOCKCHAIN%20BASICS;LEARN%20BY%20BUILDING%20%E2%80%A2%20HANDS-ON%20PROJECTS%20%E2%80%A2%20NEW%20TECH%20EVERY%20WEEK;SOFTWARE%20DEVELOPMENT%20IN%20AI%20%E2%80%A2%20CLEAN%20SYSTEMS"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=44&pause=1100&duration=2200&color=0f172a&center=true&vCenter=true&width=1100&lines=ASHMIT%20THAKUR;GENAI%20STUDENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DEEP%20LEARNING;COMPUTER%20VISION%20%E2%80%A2%20NLP%20%E2%80%A2%20BLOCKCHAIN%20BASICS;LEARN%20BY%20BUILDING%20%E2%80%A2%20HANDS-ON%20PROJECTS%20%E2%80%A2%20NEW%20TECH%20EVERY%20WEEK;SOFTWARE%20DEVELOPMENT%20IN%20AI%20%E2%80%A2%20CLEAN%20SYSTEMS"
     alt="Typing Intro"
   />
 </p>
@@ -157,5 +157,5 @@ Quick cards
 
 <!-- Name loop again (start → end → restart) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=36&pause=1200&duration=2400&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ASHMIT%20THAKUR;KEEP%20LEARNING%20•%20KEEP%20BUILDING%20•%20KEEP%20SHARING" alt="End Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=44&pause=1200&duration=2400&color=0f172a&center=true&vCenter=true&width=1000&lines=ASHMIT%20THAKUR;KEEP%20LEARNING%20•%20KEEP%20BUILDING%20•%20KEEP%20SHARING" alt="End Banner">
 </p>
