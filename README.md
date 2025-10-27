@@ -51,7 +51,7 @@ alt="Typing Intro"
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,html,css,react,nextjs,vite,tailwind,vercel,flask,fastapi,playwright,selenium,nodejs,bun,git,github,linux,docker,firebase&perline=12" height="44" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,html,css,react,nextjs,vite,tailwind,vercel,flask,fastapi,nodejs,bun,git,github,linux,docker,firebase&perline=12" height="44" />
 </p>
 
 ---
@@ -169,5 +169,5 @@ alt="Typing Intro"
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=36&pause=1200&duration=2400&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ASHMIT+THAKUR;KEEP+LEARNING+•+KEEP+BUILDING+•+KEEP+SHARING" alt="End Banner">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=36&pause=1200&duration=2400&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ASHMIT+THAKUR;KEEP+LEARNING+•+KEEP+BUILDING+•+KEEP+SHARING" alt="End Banner"/>
 </p>
