@@ -92,7 +92,7 @@ alt="Typing Intro"
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&amp;repo=Daily-Expense-Tracker&amp;theme=react&amp;hide_border=true" alt="Daily Expense Tracker">
 </a>
 <a href="https://github.com/AshmitThakur23/Web-Visitor-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&amp;repo=Web-Visitor-Tracker&amp;theme=react&amp;hide_border=true" alt="Web Visitor Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Web-Visitor-Tracker&theme=react&hide_border=true" alt="Web Visitor Tracker" />
 </a>
 </p>
 <p align="center">
