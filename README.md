@@ -73,7 +73,7 @@ alt="Typing Intro"
   **Repo**: [Daily-Expense-Tracker](https://github.com/AshmitThakur23/Daily-Expense-Tracker)
   
 - **📊 Web Visitor Tracker (Node/Express)**: Google OAuth 2.0 login + device/location logging with a modern UI.  
-  **Repo**: [Web-Visitor-Tracker](https://github.com/AshmitThakur23/Web-Visitor-Tracker)
+  **Repo**: [Web-Visitor-Tracker-](https://github.com/AshmitThakur23/Web-Visitor-Tracker-)
   
 - **🌤️ Weather Forecast (HTML/CSS/Python)**: live weather + humidity via OpenWeatherMap.  
   **Repo**: [weather-forecast](https://github.com/AshmitThakur23/weather-forecast)
@@ -91,8 +91,8 @@ alt="Typing Intro"
 <a href="https://github.com/AshmitThakur23/Daily-Expense-Tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&amp;repo=Daily-Expense-Tracker&amp;theme=react&amp;hide_border=true" alt="Daily Expense Tracker">
 </a>
-<a href="https://github.com/AshmitThakur23/Web-Visitor-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&repo=Web-Visitor-Tracker&theme=react&hide_border=true" alt="Web Visitor Tracker" />
+<a href="https://github.com/AshmitThakur23/Web-Visitor-Tracker-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshmitThakur23&amp;repo=Web-Visitor-Tracker-&amp;theme=react&amp;hide_border=true" alt="Web Visitor Tracker">
 </a>
 </p>
 <p align="center">
