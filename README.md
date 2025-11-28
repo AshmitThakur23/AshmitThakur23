@@ -73,7 +73,7 @@ alt="Typing Intro"
   **Repo**: [Daily-Expense-Tracker](https://github.com/AshmitThakur23/Daily-Expense-Tracker)
   
 - **📊 Web Visitor Tracker (Node/Express)**: Google OAuth 2.0 login + device/location logging with a modern UI.  
-  **Repo**: [Web-Visitor-Tracker-](https://github.com/AshmitThakur23/Web-Visitor-Tracker-)
+  **Repo**: [Web-Visitor-Tracker-](https://github.com/AshmitThakur23/Web-Visitor-Tracker)
   
 - **🌤️ Weather Forecast (HTML/CSS/Python)**: live weather + humidity via OpenWeatherMap.  
   **Repo**: [weather-forecast](https://github.com/AshmitThakur23/weather-forecast)
