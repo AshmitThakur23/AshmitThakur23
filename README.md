@@ -46,26 +46,25 @@ I don't just study AI — **I build with it.** Every week, I pick up something n
 
 ---
 
-**`🔥 WHAT I'M BUILDING RIGHT NOW`**
+## **WHAT I'M BUILDING RIGHT NOW**
 
-🤖 **AI Agents** — Intelligent systems that can plan, reason, use tools, and remember context  
-🧠 **Deep Learning** — Transformers, diffusion models, and multimodal architectures from scratch  
-🔗 **RAG Pipelines** — Smart retrieval, embeddings, and prompt engineering for real-world apps  
-☁️ **Cloud AI** — Deploying models on Azure & GCP with Docker and clean CI/CD  
-💻 **Full-Stack AI Apps** — Python × TypeScript, building end-to-end from API to UI  
-📊 **MLOps** — Experiment tracking, model versioning, and production-ready pipelines  
-🔐 **Responsible AI** — Building systems that are safe, fair, and transparent
+• AI Agents — Intelligent systems that can plan, reason, use tools, and remember context 🤖  
+• Deep Learning — Transformers, diffusion models, and multimodal architectures from scratch 🧠  
+• RAG Pipelines — Smart retrieval, embeddings, and prompt engineering for real-world apps 🔗  
+• Cloud AI — Deploying models on Azure & GCP with Docker and clean CI/CD ☁️  
+• Full-Stack AI Apps — Python × TypeScript, building end-to-end from API to UI 💻  
+• MLOps — Experiment tracking, model versioning, and production-ready pipelines 📊  
+• Responsible AI — Building systems that are safe, fair, and transparent 🔐  
 
 ---
 
-**`🚀 WHAT DRIVES ME`**
+## **WHAT DRIVES ME**
 
-- 🇮🇳 **Proud to build from India** — proving that world-class AI talent comes from here
-- 🧪 **Learn by doing** — I don't just read papers, I reproduce them and build on top
-- 🛠️ **Engineer first** — every project has clean code, good docs, and a working demo
-- 🌍 **Impact over hype** — I care about AI that solves real problems for real people
-- 📚 **Always learning** — new tech every week, mini-projects, hands-on experiments
-
+• Proud to build from India — proving that world-class AI talent comes from here 🇮🇳  
+• Learn by doing — I don’t just read papers, I reproduce them and build on top 🧪  
+• Engineer first — every project has clean code, documentation, and a working demo 🛠️  
+• Impact over hype — focused on solving real problems with practical AI 🌍  
+• Always learning — exploring new technologies through consistent hands-on work 📚  
 <br/>
 
 <p align="center">
